@@ -1,0 +1,108 @@
+commit ec91877a1ab8f4ac8f5c67f902673da7a3431208
+Author: Steven-8 <814762374@qq.com>
+Date:   Fri Oct 28 12:21:18 2022 -0700
+
+    Re-adding file2.txt
+
+diff --git a/inf43_discussion/file2.txt b/inf43_discussion/file2.txt
+new file mode 100644
+index 0000000..bfc5466
+--- /dev/null
++++ b/inf43_discussion/file2.txt
+@@ -0,0 +1,5 @@
++Caroline Nguyen 94046414 Software Engineering 2024 Software Engineer
++Kimberly Ng 61139368 Informatics 2023 UI/UX Researcher
++Zhihao Wang 001097393 Computer Science  2023 Software Engineer
++Noelle Smith 81524772 Computer Science 2024 Cyber Security Sales
++Crystal Chiu 33702086 Computer Science 2024 
+
+commit cc24ce0a4617f06dd06b346230ae1238921243bc
+Author: Steven-8 <814762374@qq.com>
+Date:   Fri Oct 28 11:50:01 2022 -0700
+
+    Deleting file2.txt
+
+diff --git a/inf43_discussion/file1.txt b/inf43_discussion/file1.txt
+new file mode 100644
+index 0000000..1800296
+--- /dev/null
++++ b/inf43_discussion/file1.txt
+@@ -0,0 +1,4 @@
++Caroline Nguyen Software Engineering
++Kimberly Ng Informatics
++Zhihao wang Computer Science blue
++Noelle Smith  Computer Science
+diff --git a/inf43_discussion/file2.txt b/inf43_discussion/file2.txt
+deleted file mode 100644
+index bfc5466..0000000
+--- a/inf43_discussion/file2.txt
++++ /dev/null
+@@ -1,5 +0,0 @@
+-Caroline Nguyen 94046414 Software Engineering 2024 Software Engineer
+-Kimberly Ng 61139368 Informatics 2023 UI/UX Researcher
+-Zhihao Wang 001097393 Computer Science  2023 Software Engineer
+-Noelle Smith 81524772 Computer Science 2024 Cyber Security Sales
+-Crystal Chiu 33702086 Computer Science 2024 
+
+commit 0a21f6fbf1610c4f111ec4d7d8d91884b2f3c4c6
+Author: Steven-8 <814762374@qq.com>
+Date:   Fri Oct 28 11:47:06 2022 -0700
+
+    add file2
+
+diff --git a/inf43_discussion/file2.txt b/inf43_discussion/file2.txt
+new file mode 100644
+index 0000000..bfc5466
+--- /dev/null
++++ b/inf43_discussion/file2.txt
+@@ -0,0 +1,5 @@
++Caroline Nguyen 94046414 Software Engineering 2024 Software Engineer
++Kimberly Ng 61139368 Informatics 2023 UI/UX Researcher
++Zhihao Wang 001097393 Computer Science  2023 Software Engineer
++Noelle Smith 81524772 Computer Science 2024 Cyber Security Sales
++Crystal Chiu 33702086 Computer Science 2024 
+diff --git a/inf43_discussion/file2.txt.txt b/inf43_discussion/file2.txt.txt
+new file mode 100644
+index 0000000..f5ae739
+--- /dev/null
++++ b/inf43_discussion/file2.txt.txt
+@@ -0,0 +1 @@
++2023 software engineer
+\ No newline at end of file
+
+commit 62f3380495655d52756b3de731b6afc8a524fa6b
+Author: Steven-8 <814762374@qq.com>
+Date:   Fri Oct 28 11:36:29 2022 -0700
+
+    Now has my major
+
+diff --git a/inf43_discussion/file1.txt.txt b/inf43_discussion/file1.txt.txt
+index fab8833..b540b57 100644
+--- a/inf43_discussion/file1.txt.txt
++++ b/inf43_discussion/file1.txt.txt
+@@ -1,3 +1,4 @@
+-zhihao wang  001097393
+-Caroline Nguyen 94046414
+-Noelle Smith 81524772
+\ No newline at end of file
++Caroline Nguyen Software Engineering
++Kimberly Ng Informatics
++Zhihao wang Computer Science
++Noelle Smith  Computer Science
+
+commit 6734c90050ed98e40937d33181ea163627780c1e
+Author: Steven-8 <814762374@qq.com>
+Date:   Fri Oct 28 11:31:05 2022 -0700
+
+    Committing a new file with zhihao
+
+diff --git a/inf43_discussion/file1.txt.txt b/inf43_discussion/file1.txt.txt
+new file mode 100644
+index 0000000..fab8833
+--- /dev/null
++++ b/inf43_discussion/file1.txt.txt
+@@ -0,0 +1,3 @@
++zhihao wang  001097393
++Caroline Nguyen 94046414
++Noelle Smith 81524772
+\ No newline at end of file
